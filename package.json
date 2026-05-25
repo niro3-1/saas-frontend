@@ -1,1 +1,1 @@
-{\n  "dependencies": {\n    "email-validator": "4.0.4",\n    "recharts": "latest"\n  }\n}
+{"dependencies":{"email-validator":"latest","recharts":"latest"}}
