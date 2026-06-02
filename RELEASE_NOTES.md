@@ -1,6 +1,4 @@
-# Release Notes for v0.1.0
+# Release Notes for v1.0.4
 
-Initial release of the saas-frontend project.
-
-## [0.1.0] - 2026-05-18
-- Cutting release v0.1.0 for saas-frontend.
+## [1.0.4] - YYYY-MM-DD
+- Description of changes made in this release.
