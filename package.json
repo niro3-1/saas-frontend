@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "react": "latest",
-    "recharts": "latest",
-    "email-validator": "latest"
-  }
-}
